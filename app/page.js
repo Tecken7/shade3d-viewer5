@@ -266,7 +266,3 @@ export default function Page() {
         </div>
     )
 }
-            </Canvas>
-        </div>
-    )
-}
